@@ -1,0 +1,4 @@
+configparser==3.8.1
+pynput==1.4.2
+pywin32==224
+wxPython==4.0.6
