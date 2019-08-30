@@ -1,7 +1,6 @@
 # AntiLockScreen
-[README](https://github.com/fatedier/frp/blob/master/README.md)
- | 
-[说明文档](https://github.com/fatedier/frp/blob/master/README_zh.md)  
+[README](https://github.com/xsecure/AntiLockScreen/blob/master/READMD.md) | 
+[说明文档](https://github.com/xsecure/AntiLockScreen/blob/master/READMD_zh.md) 
 A GUI python3 project "Anti-LockScreen"
 
 ## Feature
