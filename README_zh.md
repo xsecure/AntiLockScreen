@@ -1,7 +1,8 @@
 # AntiLockScreen
-[README](https://github.com/xsecure/AntiLockScreen/blob/master/READMD.md) | 
-[说明文档](https://github.com/xsecure/AntiLockScreen/blob/master/READMD_zh.md)  
-一款使用Python3编写的带有图形界面的防锁屏小程序
+[README](https://github.com/xsecure/AntiLockScreen/blob/master/README.md) | 
+[说明文档](https://github.com/xsecure/AntiLockScreen/blob/master/README_zh.md)  
+一款使用Python3编写的带有图形界面的防锁屏小程序。  
+依赖问题请参考[requirements.txt](https://github.com/xsecure/AntiLockScreen/blob/master/requirements.txt)文件。
 
 ## 功能
 就只是防锁屏而已
